@@ -9,7 +9,11 @@
 Pick one or more time ranges in a built-in player, press Download, and get a clean MP4 –
 optionally with MP3 audio and subtitles. Free, no ads, no account, for macOS, Windows and Linux.
 
-[**⬇ Download the latest version**](https://github.com/mehambas/youtube-downloader-releases/releases/latest) &nbsp;·&nbsp; [♥ Support on Ko-fi](https://ko-fi.com/mehambas91)
+**⬇ Download:** [**macOS** (M1 and newer)](https://github.com/mehambas/youtube-downloader-releases/releases/latest/download/YouTube-Downloader-mac-arm64.dmg) &nbsp;·&nbsp; [**macOS** (Intel)](https://github.com/mehambas/youtube-downloader-releases/releases/latest/download/YouTube-Downloader-mac-x64.dmg) &nbsp;·&nbsp; [**Windows**](https://github.com/mehambas/youtube-downloader-releases/releases/latest/download/YouTube-Downloader-Setup.exe) &nbsp;·&nbsp; [**Linux**](https://github.com/mehambas/youtube-downloader-releases/releases/latest/download/YouTube-Downloader-Linux-x86_64.AppImage)
+
+<sub>Which Mac do I have? Apple menu → <i>About This Mac</i>: “Chip: Apple M…” = M1 and newer, “Processor: Intel” = Intel.</sub>
+
+[♥ Support on Ko-fi](https://ko-fi.com/mehambas91)
 
 <img src="assets/ranges.gif" width="720" alt="Selecting three ranges on the timeline and choosing to join them into one video">
 
@@ -49,16 +53,17 @@ cutting it yourself. This app does both in one step – and only fetches what it
 
 ## Download
 
-Get the file for your system from the
-[latest release](https://github.com/mehambas/youtube-downloader-releases/releases/latest):
-
-| System | File |
+| System | Download |
 | --- | --- |
-| **macOS** (Apple Silicon: M1 and newer) | `YouTube-Downloader-<version>-arm64.dmg` |
-| **macOS** (Intel) | `YouTube-Downloader-<version>-x64.dmg` |
-| **Windows** 10 / 11 | `YouTube-Downloader-Setup-<version>.exe` (or the *Portable* version, no install needed) |
-| **Linux** | `.AppImage` or `.deb` |
+| **macOS** – Apple Silicon (M1 and newer) | [YouTube-Downloader-mac-arm64.dmg](https://github.com/mehambas/youtube-downloader-releases/releases/latest/download/YouTube-Downloader-mac-arm64.dmg) |
+| **macOS** – Intel | [YouTube-Downloader-mac-x64.dmg](https://github.com/mehambas/youtube-downloader-releases/releases/latest/download/YouTube-Downloader-mac-x64.dmg) |
+| **Windows** 10 / 11 | [YouTube-Downloader-Setup.exe](https://github.com/mehambas/youtube-downloader-releases/releases/latest/download/YouTube-Downloader-Setup.exe) – or [Portable](https://github.com/mehambas/youtube-downloader-releases/releases/latest/download/YouTube-Downloader-Portable.exe), no install needed |
+| **Linux** | [AppImage](https://github.com/mehambas/youtube-downloader-releases/releases/latest/download/YouTube-Downloader-Linux-x86_64.AppImage) or [.deb](https://github.com/mehambas/youtube-downloader-releases/releases/latest/download/YouTube-Downloader-Linux-amd64.deb) |
 
+Not sure which Mac you have? Open the Apple menu → **About This Mac**. “Chip: Apple M1/M2/…” means
+Apple Silicon, “Processor: Intel” means Intel.
+
+Older versions and release notes: [all releases](https://github.com/mehambas/youtube-downloader-releases/releases).
 Everything the app needs (yt-dlp, ffmpeg, …) is included – there is nothing else to install.
 
 ### First launch
