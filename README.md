@@ -9,7 +9,7 @@
 Pick one or more time ranges in a built-in player, press Download, and get a clean MP4 –
 optionally with MP3 audio and subtitles. Free, no ads, no account, for macOS, Windows and Linux.
 
-[**⬇ Download the latest version**](https://github.com/mehambas/youtube-downloader-releases/releases/latest)
+[**⬇ Download the latest version**](https://github.com/mehambas/youtube-downloader-releases/releases/latest) &nbsp;·&nbsp; [♥ Support on Ko-fi](https://ko-fi.com/mehambas91)
 
 <img src="assets/ranges.gif" width="720" alt="Selecting three ranges on the timeline and choosing to join them into one video">
 
@@ -78,15 +78,13 @@ The app is not signed with a paid developer certificate, so your system will war
 3. Choose *Separate files* or *One video*, open **Advanced options** for quality, MP3 and
    subtitles if you like, and press **Download**.
 
-<!-- Support section: enable once the support link exists (replace SUPPORT_LINK)
 ## Support the project
 
 This app is completely free. If you find it useful, you can optionally support its development:
 
-<a href="SUPPORT_LINK"><img src="https://img.shields.io/badge/Support%20this%20project-%E2%9D%A4-e5484d?style=for-the-badge" alt="Support this project"></a>
+<a href="https://ko-fi.com/mehambas91"><img src="https://img.shields.io/badge/Support%20on%20Ko--fi-%E2%9D%A4-e5484d?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi"></a>
 
 Support is entirely voluntary and does not provide any additional features, services or benefits.
--->
 
 ## Good to know
 
